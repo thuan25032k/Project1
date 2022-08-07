@@ -5,7 +5,9 @@ Writing a Data Scientist Blog Post
 The project analyzed Airbnb listing in LAC using publicly avaiable Airbnb dataset (June 06, 2022). The project compared rates between the LAC boroughs, and the properties that helps predict price. The analysis will give insights to the spread and distribution of the Airbnb listings in each LAC boroughs by following the CRISP-DM process.
 
 Using Airbnb data, we hope to gain insights on the distribution and spread of Airbnb listing accross the five borough of LAC. LAC being the most visited city in the world, travellers seeking accomodation in LAC will gain insight on where to find affordable Airbnb rooms.
-  ** - Required packages **
+
+  - Required packages
+  
     The analysis is done using `Python 3.8.1`
     
     Python Packages used are:
