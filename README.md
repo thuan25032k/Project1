@@ -7,13 +7,21 @@ The project analyzed Airbnb listing in LAC using publicly avaiable Airbnb datase
 Using Airbnb data, we hope to gain insights on the distribution and spread of Airbnb listing accross the five borough of LAC. LAC being the most visited city in the world, travellers seeking accomodation in LAC will gain insight on where to find affordable Airbnb rooms.
   ** - Required packages **
     The analysis is done using `Python 3.8.1`
+    
     Python Packages used are:
+    
       - `Numpy`
+      
       - `Pandas`
+      
       - `xgboost`
+      
       - `eli5`
+      
       - `Matlabplot`
+      
       - `Scklearn`
+      
       - `Seaborn`
 ## Dataset
 Publicly avaiable [Airbnb LAC dataset](http://insideairbnb.com/get-the-data/)
