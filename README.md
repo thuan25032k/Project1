@@ -43,3 +43,5 @@ Following the CRISP-DM process this project will find solutions to the following
           + Finding factors that positively and negatively impact the price of Airbnb rooms in LAC using linear regression analysis.
 ## blog post
 See blog post at this [link](https://medium.com/@minhnguynthun/special-los-angeles-city-airbnb-rooms-made-for-you-ac256b40391)
+## Acknowledgments
+Must give credit to [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for the data. Inside Airbnb is an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world. The data behind the Inside Airbnb site is sourced from publicly available information from the Airbnb site. The data has been analyzed, cleansed and aggregated where appropriate to facilitate public discussion. Read more disclaimers [here](http://insideairbnb.com/about.html#disclaimers). The data is shared to public for further analyses under a [Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"](https://creativecommons.org/publicdomain/zero/1.0/) license.
